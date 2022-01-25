@@ -1,5 +1,5 @@
 # Accenture coffee
-A small website made for an assessment for Accenture. The website loads JSON data, does some calculations with it and displays them. 
+A small website made for an assessment for Accenture. The website loads JSON data, does some calculations to it and displays them. 
 
 
 ## Project setup
