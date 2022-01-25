@@ -1,7 +1,5 @@
 # Accenture coffee
-```
 An assessment for Accenture
-```
 
 ## Project setup
 ```
